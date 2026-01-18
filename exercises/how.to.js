@@ -8,6 +8,7 @@
 // here place your solution:
 console.log('Hello jaktestowac.pl!!');
 
+console.log('Hello jaktestowac.pl!');
 
 
 
